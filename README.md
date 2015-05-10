@@ -1,4 +1,4 @@
-in assets:
+in /assets/:
 
 - grunt bowercopy
 - npm install

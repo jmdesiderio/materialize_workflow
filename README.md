@@ -1,5 +1,5 @@
 in /assets/:
 
-- grunt bowercopy
 - npm install
+- grunt bowercopy
 - grunt dev
